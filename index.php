@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8" />
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+  <title>MyResume Bootstrap Template - Index</title>
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet" />
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet" />
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet" />
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet" />
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet" />
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
+  <!-- bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous" />
+  <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet" />
+</head>
+
+<body>
+  <!-- ======= Mobile nav toggle button ======= -->
+  <!-- <button type="button" class="mobile-nav-toggle d-xl-none">
+      <i class="bi bi-list mobile-nav-toggle"></i>
+    </button> -->
+  <i class="bi bi-list mobile-nav-toggle d-lg-none"></i>
+  <!-- ======= Header ======= -->
+  <header id="header" class="d-flex flex-column justify-content-center">
+    <nav id="navbar" class="navbar nav-menu">
+      <ul>
+        <li>
+          <a href="#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Accueil</span></a>
+        </li>
+        <li>
+          <a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>A propos de moi</span></a>
+        </li>
+        <li>
+          <a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>cv</span></a>
+        </li>
+        <li>
+          <a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a>
+        </li>
+
+        <li>
+          <a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a>
+        </li>
+      </ul>
+    </nav>
+    <!-- nav-menu -->
+  </header>
+  <!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex flex-column justify-content-center">
+    <div class="container" data-aos="zoom-in" data-aos-delay="100">
+      <h1>Mennai Hajar</h1>
+      <p>
+        Je suis
+        <span class="typed" data-typed-items="Chimiste, en Reconversion,en  Web developpeur"></span>
+      </p>
+    </div>
+  </section>
+  <!-- End Hero -->
+
+  <main id="main">
+    <!-- ======= Section à propos ======= -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+        <div class="section-title">
+          <h2>A propos de moi</h2>
+          <p>
+            Initialement chimiste de formation, je suis en pleine reconversion
+            professionnelle en développement Web. Je suis impresssionnée par
+            les avancées technologiques et je veux y participer à mon échelle.
+            Ayant suivi une formation d’accès à la qualification (AQ)
+            informatique puis une initiation en devéloppement Web
+            (Janvier-Avril 2023). Je suis actuellement en train de suivre une
+            formation complète en développement Web et applicatif
+            (mai-décembre 2023) afin de décrocher le titre de concepteur &
+            dévéloppeur.
+          </p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4">
+            <img src="assets/img/portrait.jpg" class="img-fluid" alt="" />
+          </div>
+          <div class="col-lg-8 pt-4 pt-lg-0 content">
+            <h3>Futur Web Developer.</h3>
+            <p class="fst-italic">
+              Je suis actuellement en train de préparer mon titre de
+              concepteur et web developpeur (Bac+3) au sein de l'organisme G2r
+              (de mai a decembre 2023).
+            </p>
+            <div class="row">
+              <div class="col-lg-6">
+                <ul>
+                  <li>
+                    <i class="bi bi-chevron-right"></i>
+                    <strong>Anniversaire:</strong> <span>2 Octobre 1994</span>
+                  </li>
+                  <li>
+                    <i class="bi bi-chevron-right"></i>
+                    <strong>mon site:</strong>
+                    <span>www.monpremiersite.com</span>
+                  </li>
+                  <li>
+                    <i class="bi bi-chevron-right"></i>
+                    <strong>Téléphone:</strong> <span>07.67.39.75.27</span>
+                  </li>
+                  <li>
+                    <i class="bi bi-chevron-right"></i>
+                    <strong>Ville:</strong> <span>Paris, France</span>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-6">
+                <ul>
+                  <li>
+                    <i class="bi bi-chevron-right"></i> <strong>Age:</strong>
+                    <span>28</span>
+                  </li>
+                  <li>
+                    <i class="bi bi-chevron-right"></i>
+                    <strong>Niveau d'études:</strong> <span>Master</span>
+                  </li>
+                  <li>
+                    <i class="bi bi-chevron-right"></i>
+                    <strong>mon email:</strong>
+                    <span>mennai.hajar@outlook.fr</span>
+                  </li>
+                  <li>
+                    <i class="bi bi-chevron-right"></i>
+                    <strong>Freelance:</strong>
+                    <span>Future disponibilité possible</span>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <p>
+              A l’issue de ma formation, je suis à la recherche d’un stage de
+              2 mois pour consolider mes connaissances.N'hésitez pas à me
+              soliciter afin de mettre à bien votre projet. Disponible dès
+              Septembre 2023.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- ======= Skills Section ======= -->
+    <section id="skills" class="skills section-bg">
+      <div class="container" data-aos="fade-up">
+        <div class="section-title">
+          <h2>Compétences</h2>
+          <p>
+            Doté d'une grande capacité de concentration et curieuse par
+            nature, je sais me montrer patiente pour apprendre de nouvelles
+            compétences.
+          </p>
+        </div>
+
+        <div class="row skills-content">
+          <div class="col-lg-6">
+            <div class="progress">
+              <span class="skill">HTML <i class="val">90%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">CSS <i class="val">70%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">JavaScript <i class="val">70%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+            <div class="progress">
+              <span class="skill">After Effect, Premiere Pro <i class="val">80%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6">
+            <div class="progress">
+              <span class="skill">PHP <i class="val">60%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">WordPress/CMS <i class="val">80%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">Photoshop <i class="val">55%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+            <div class="progress">
+              <span class="skill">Pack office (Word, Excel, Power Point)
+                <i class="val">75%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- ======= Section CV ======= -->
+    <section id="resume" class="resume">
+      <div class="container" data-aos="fade-up">
+        <div class="section-title">
+          <h2>CV</h2>
+          <p style="text-align: justify">
+            Ayant fait des études principalement en chimie et dans le milieu
+            scientifique(premiere année de biologie), je n'ai pas eu des
+            difficultés particulières à m'intégrer dans le domaine de
+            l'informatique et plus précisément dans le web et l'applicatif.
+          </p>
+        </div>
+        <div class="text-center">
+          <a href="assets/img/cvMennaiHajar.pdf" download>
+            <button type="submit" class="btn" style="background-color: #bb0542; color: white">
+              Télécharger le cv en pdf
+            </button></a>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-6">
+            <h3 class="resume-title">Education</h3>
+            <div class="resume-item">
+              <h4>Master En Ingénierie Chimique</h4>
+              <h5>2018 - 2019</h5>
+              <p>
+                <em>Université Pierre et Marie Curie, UPMC, Paris</em>
+              </p>
+              <p>
+                Bioprocédés, Outil et calcul des procédés chimiques, Catalyse,
+                Optimisation des procédés, formulation
+              </p>
+            </div>
+            <div class="resume-item">
+              <h4>Licence en chimie Général</h4>
+              <h5>2015 - 2017</h5>
+              <p>
+                <em>Université de Neuville, Département chimie, Cergy</em>
+              </p>
+              <p>
+                Chimie générale, chimie des solutions, chimie organique,
+                chimie inorganique, thermodynamique, cristallographie,
+                atomistique, methode de séparation, RMN, IR, syntèse, maths,
+                physique, anglais...
+              </p>
+            </div>
+            <div class="resume-item">
+              <h4>Licence 1 en Biologie</h4>
+              <h5>2014 - 2015</h5>
+              <p>
+                <em>Université de Cergy, Département biologie, Cergy</em>
+              </p>
+              <p>
+                biologie cellulaire, histologie, génétique, physiologie
+                végétale, physiologie animale, chimie, maths, physique
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <h3 class="resume-title">Experiences Professionnelles</h3>
+            <div class="resume-item">
+              <h4>Stage de fin d'étude</h4>
+              <h5>Mars 2019 - Septembre 2019</h5>
+              <p><em>Cerema, Provins, île-de-france </em></p>
+              <ul>
+                <li>
+                  Stage de fin d'étude, réalisation de plan d’étude de
+                  formulation de ciment et laitiers avec des sels précurseurs
+                </li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>Technicienne de laboratoire</h4>
+              <h5>Juillet 2020 - Décembre 2020</h5>
+              <p><em>Cerba, Saint-Ouen-l'Aumône</em></p>
+              <ul>
+                <li>
+                  Service COVID : réception, préparation d’échantillons pour
+                  l’analyse des tests PCR, biothèque, saisie et modification
+                  des informations patients par vidéocodage.
+                </li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>Technicienne de laboratoire</h4>
+              <h5>Septembre 2021 - Février 2022</h5>
+              <p><em>Cerballiance, CDG, Paris</em></p>
+              <ul>
+                <li>
+                  Poste polyvalent dans la réalisation des analyses médicales
+                  des tests PCR et antigéniques, opératrice de saisie et agent
+                  d’accueil
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
+      <div class="container" data-aos="fade-up">
+        <div class="section-title">
+          <h2>Me contacter</h2>
+        </div>
+
+        <div class="row mt-1">
+          <div class="col-lg-4">
+            <div class="info">
+              <div class="address">
+                <i class="bi bi-geo-alt"></i>
+                <h4>Lieu:</h4>
+                <p>G2r Paris (Nation)</p>
+              </div>
+
+              <div class="email">
+                <i class="bi bi-envelope"></i>
+                <h4>Email:</h4>
+                <p>mennai.hajar@outlook.fr</p>
+              </div>
+
+              <div class="phone">
+                <i class="bi bi-phone"></i>
+                <h4>Appel:</h4>
+                <p>+33 7 67 39 75 27</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-8 mt-5 mt-lg-0">
+            <form action="forms/send-email.php" method="post" role="form" class="php-email-form">
+              <div class="row">
+                <div class="col-md-6 form-group">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Votre Prenom" required />
+                </div>
+                <div class="col-md-6 form-group mt-3 mt-md-0">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="votre Email" required />
+                </div>
+              </div>
+              <div class="form-group mt-3">
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Objet" required />
+              </div>
+              <div class="form-group mt-3">
+                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+              </div>
+              <div class="my-3">
+                <div class="loading">Chargement</div>
+                <div class="error-message"></div>
+                <div class="sent-message">
+                  Votre message a bien été envoyé. Merci!
+                </div>
+              </div>
+              <div class="text-center">
+                <button type="submit">Envoyer votre message</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container">
+      <h3>Mennai Hajar</h3>
+      <p>"Tout vient à point à qui sait attendre."</p>
+      <div class="copyright">
+        &copy; Copyright <strong><span>mon CV</span></strong>. All Rights Reserved
+      </div>
+    </div>
+  </footer>
+  <!-- End Footer -->
+
+  <div id="preloader"></div>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/typed.js/typed.umd.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+</body>
+
+</html>
